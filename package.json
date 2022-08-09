@@ -1,0 +1,22 @@
+{
+  "name": "onboarding-server",
+  "version": "1.0.0",
+  "description": "Taqtile's onboarding project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoBarros360/onboarding-server.git"
+  },
+  "author": "Gustavo Barros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoBarros360/onboarding-server/issues"
+  },
+  "homepage": "https://github.com/GustavoBarros360/onboarding-server#readme",
+  "dependencies": {
+    "graphql": "^16.5.0"
+  }
+}
